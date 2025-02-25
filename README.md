@@ -1,4 +1,3 @@
-Okay, here's the M-- user documentation, rewritten to follow common GitHub documentation standards (README.md style), including a more professional tone (while still acknowledging the language's inherent absurdity), proper Markdown formatting, and clear sections:
 
 # M-- Programming Language
 
